@@ -13,9 +13,6 @@
 独家定制客户端，在官网注册购买套餐后，下载对应设备的APP即可使用。
 
 
-## 百变小樱APP下载链接
+## 百变小樱APP
 
-Windows:https://bbxy.shop/download/Sakura-Setup-1.2.3.exe
-
-Android:https://bbxy.shop/download/Sakura-1.2.3-universal-release.apk
-
+请到右边releases下载
