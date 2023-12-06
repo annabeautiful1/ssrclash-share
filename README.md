@@ -1,6 +1,6 @@
 # 百变小樱机场官网地址
 
-永久地址：![https://bbxy.shop](https://www.bbxy.buzz/auth/register?code=qyby)
+永久地址：[https://bbxy.shop](https://www.bbxy.buzz/auth/register?code=qyby)
 
 ## 机场特色
 
@@ -15,7 +15,7 @@
 
 ## 百变小樱APP下载链接
 
-![Windows](bbxy.shop/download/Sakura Setup 1.2.3.exe)
+[Windows](bbxy.shop/download/Sakura Setup 1.2.3.exe)
 
-![Android](bbxy.shop/download/Sakura-1.2.3-universal-release.apk)
+[Android](bbxy.shop/download/Sakura-1.2.3-universal-release.apk)
 
