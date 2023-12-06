@@ -15,7 +15,7 @@
 
 ## 百变小樱APP下载链接
 
-[Windows](https://bbxy.shop/download/Sakura Setup 1.2.3.exe)
+Windows:https://bbxy.shop/download/Sakura Setup 1.2.3.exe
 
-[Android](https://bbxy.shop/download/Sakura-1.2.3-universal-release.apk)
+Android:https://bbxy.shop/download/Sakura-1.2.3-universal-release.apk
 
